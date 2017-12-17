@@ -1,0 +1,6 @@
+1)  A race condition occurs when two or more threads can access shared data and
+    they try to change it at the same time.
+2)  i)  In multi-processor system, each CPU/core execute code simultaneously,
+        so whether the current CPU has disabled interrupts has nothing to do
+        to avoid other CPU from entering the same region.
+    ii) 
